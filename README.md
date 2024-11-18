@@ -10,8 +10,7 @@ CarValue is a machine learning project designed to estimate the prices of used c
 - Evaluation Metrics
 - Installation
 - Usage
-- Contributing
-- License
+
 
 ## Introduction
 
